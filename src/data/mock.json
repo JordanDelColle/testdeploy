@@ -1,0 +1,158 @@
+{
+  "users": {
+    "-MuDCXOmr8uv6tttpyHf": {
+      "id": 1,
+      "fullName": "Edythe Normand",
+      "avatar": "https://robohash.org/quistemporaipsam.png?size=500x500&set=set1"
+    },
+    "-MuDCXOnnMA0fp5LJsXE": {
+      "id": 2,
+      "fullName": "Karleen Alsobrook",
+      "avatar": "https://robohash.org/magnimolestiaevoluptatem.png?size=500x500&set=set1"
+    },
+    "-MuDCXOopK2RcCMgILIH": {
+      "id": 3,
+      "fullName": "Sherm Stayte",
+      "avatar": "https://robohash.org/doloresdolorumpariatur.png?size=500x500&set=set1"
+    },
+    "-MuDCXOp3WhbDFK7ZW7c": {
+      "id": 4,
+      "fullName": "Nata Slyne",
+      "avatar": "https://robohash.org/consecteturdolorsaepe.png?size=500x500&set=set1"
+    },
+    "-MuDCXOqapu8v1AYEIhJ": {
+      "id": 5,
+      "fullName": "Cleve Caldayrou",
+      "avatar": "https://robohash.org/quoeumet.png?size=500x500&set=set1"
+    },
+    "-MuDCXOsIQAEUYarxAt8": {
+      "id": 6,
+      "fullName": "Binni Udell",
+      "avatar": "https://robohash.org/voluptasetsunt.png?size=500x500&set=set1"
+    },
+    "-MuDCXOtgm_gEpgUimjk": {
+      "id": 7,
+      "fullName": "Stefan Faltin",
+      "avatar": "https://robohash.org/molestiaemagnamvel.png?size=500x500&set=set1"
+    },
+    "-MuDCXOu8g062QjgL_Tk": {
+      "id": 8,
+      "fullName": "Vonny Stowe",
+      "avatar": "https://robohash.org/dictaodioaperiam.png?size=500x500&set=set1"
+    },
+    "-MuDCXOvnLzpm7n-2rHB": {
+      "id": 9,
+      "fullName": "Kiri Sidery",
+      "avatar": "https://robohash.org/laborearchitectoesse.png?size=500x500&set=set1"
+    },
+    "-MuDCXOwD9SBEhB11B1w": {
+      "id": 10,
+      "fullName": "Faustina Dow",
+      "avatar": "https://robohash.org/autdistinctioex.png?size=500x500&set=set1"
+    }
+  },
+  "purchase": {
+    "-MuDCXOmr8uv6tttpyHf": {
+      "id": 1,
+      "fullName": "Edythe Normand",
+      "avatar": "https://robohash.org/quistemporaipsam.png?size=500x500&set=set1"
+    },
+    "-MuDCXOnnMA0fp5LJsXE": {
+      "id": 2,
+      "fullName": "Karleen Alsobrook",
+      "avatar": "https://robohash.org/magnimolestiaevoluptatem.png?size=500x500&set=set1"
+    },
+    "-MuDCXOopK2RcCMgILIH": {
+      "id": 3,
+      "fullName": "Sherm Stayte",
+      "avatar": "https://robohash.org/doloresdolorumpariatur.png?size=500x500&set=set1"
+    },
+    "-MuDCXOp3WhbDFK7ZW7c": {
+      "id": 4,
+      "fullName": "Nata Slyne",
+      "avatar": "https://robohash.org/consecteturdolorsaepe.png?size=500x500&set=set1"
+    },
+    "-MuDCXOqapu8v1AYEIhJ": {
+      "id": 5,
+      "fullName": "Cleve Caldayrou",
+      "avatar": "https://robohash.org/quoeumet.png?size=500x500&set=set1"
+    },
+    "-MuDCXOsIQAEUYarxAt8": {
+      "id": 6,
+      "fullName": "Binni Udell",
+      "avatar": "https://robohash.org/voluptasetsunt.png?size=500x500&set=set1"
+    },
+    "-MuDCXOtgm_gEpgUimjk": {
+      "id": 7,
+      "fullName": "Stefan Faltin",
+      "avatar": "https://robohash.org/molestiaemagnamvel.png?size=500x500&set=set1"
+    },
+    "-MuDCXOu8g062QjgL_Tk": {
+      "id": 8,
+      "fullName": "Vonny Stowe",
+      "avatar": "https://robohash.org/dictaodioaperiam.png?size=500x500&set=set1"
+    },
+    "-MuDCXOvnLzpm7n-2rHB": {
+      "id": 9,
+      "fullName": "Kiri Sidery",
+      "avatar": "https://robohash.org/laborearchitectoesse.png?size=500x500&set=set1"
+    },
+    "-MuDCXOwD9SBEhB11B1w": {
+      "id": 10,
+      "fullName": "Faustina Dow",
+      "avatar": "https://robohash.org/autdistinctioex.png?size=500x500&set=set1"
+    }
+  },
+  "inventory": {
+    "-MuDCXOmr8uv6tttpyHf": {
+      "id": 1,
+      "fullName": "Edythe Normand",
+      "avatar": "https://robohash.org/quistemporaipsam.png?size=500x500&set=set1"
+    },
+    "-MuDCXOnnMA0fp5LJsXE": {
+      "id": 2,
+      "fullName": "Karleen Alsobrook",
+      "avatar": "https://robohash.org/magnimolestiaevoluptatem.png?size=500x500&set=set1"
+    },
+    "-MuDCXOopK2RcCMgILIH": {
+      "id": 3,
+      "fullName": "Sherm Stayte",
+      "avatar": "https://robohash.org/doloresdolorumpariatur.png?size=500x500&set=set1"
+    },
+    "-MuDCXOp3WhbDFK7ZW7c": {
+      "id": 4,
+      "fullName": "Nata Slyne",
+      "avatar": "https://robohash.org/consecteturdolorsaepe.png?size=500x500&set=set1"
+    },
+    "-MuDCXOqapu8v1AYEIhJ": {
+      "id": 5,
+      "fullName": "Cleve Caldayrou",
+      "avatar": "https://robohash.org/quoeumet.png?size=500x500&set=set1"
+    },
+    "-MuDCXOsIQAEUYarxAt8": {
+      "id": 6,
+      "fullName": "Binni Udell",
+      "avatar": "https://robohash.org/voluptasetsunt.png?size=500x500&set=set1"
+    },
+    "-MuDCXOtgm_gEpgUimjk": {
+      "id": 7,
+      "fullName": "Stefan Faltin",
+      "avatar": "https://robohash.org/molestiaemagnamvel.png?size=500x500&set=set1"
+    },
+    "-MuDCXOu8g062QjgL_Tk": {
+      "id": 8,
+      "fullName": "Vonny Stowe",
+      "avatar": "https://robohash.org/dictaodioaperiam.png?size=500x500&set=set1"
+    },
+    "-MuDCXOvnLzpm7n-2rHB": {
+      "id": 9,
+      "fullName": "Kiri Sidery",
+      "avatar": "https://robohash.org/laborearchitectoesse.png?size=500x500&set=set1"
+    },
+    "-MuDCXOwD9SBEhB11B1w": {
+      "id": 10,
+      "fullName": "Faustina Dow",
+      "avatar": "https://robohash.org/autdistinctioex.png?size=500x500&set=set1"
+    }
+  }
+}
